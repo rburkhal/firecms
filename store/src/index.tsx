@@ -73,7 +73,8 @@ const productSchema = buildSchema({
                         books: "Books",
                         furniture: "Furniture",
                         clothing: "Clothing",
-                        food: "Food"
+                        food: "Food",
+                        jewelry: "Jewelry"
                     }
                 }
             }
